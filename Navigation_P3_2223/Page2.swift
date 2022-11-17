@@ -9,7 +9,12 @@ import SwiftUI
 
 struct Page2: View {
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        VStack{
+            Text("Página 2")
+            NavigationLink(destination: Page3(), label: {
+                Text("Ir para página 3")
+            })
+        }
     }
 }
 

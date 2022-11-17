@@ -138,8 +138,8 @@
 			isa = PBXGroup;
 			children = (
 				6456A43D2926387200DB63FD /* Page1.swift */,
-				6456A43F2926387E00DB63FD /* Page3.swift */,
 				6456A4412926388F00DB63FD /* Page2.swift */,
+				6456A43F2926387E00DB63FD /* Page3.swift */,
 			);
 			name = Views;
 			sourceTree = "<group>";
